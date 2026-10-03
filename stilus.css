@@ -1,0 +1,25 @@
+body {
+  background-image: url("design/teglafal.jpg");
+  font-family: Arial, Verdana, sans-serif;
+  color: beige;
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+}
+.tarolo {
+  width: 80%;
+  max-width: 1000px;
+  margin: 20px;
+
+  padding: 20px;
+}
+.kep1 {
+  text-align: left;
+  float: left;
+}
+.kep1{
+  float: left;
+  margin-left: 15px;
+  width: 200px;
+  height: 200px;
+}
